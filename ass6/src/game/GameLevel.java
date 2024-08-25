@@ -22,8 +22,6 @@ import java.awt.Color;
 
 /**
  * The type Game.
- *
- * @author 322638354 Yedidya Peles <\yedpel@gmail.com>.
  */
 public class GameLevel implements Animation {
     private final SpriteCollection sprites = new SpriteCollection();

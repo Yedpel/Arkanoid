@@ -5,7 +5,6 @@ import geometry.Velocity;
 import sprites.Ball;
 
 /**
- * @author 322638354 Yedidya Peles <\yedpel@gmail.com>.
  * Collidable interface.
  * An interface of objects that can be collided with.
  */

@@ -13,9 +13,6 @@ import java.util.Random;
 
 /**
  * The type Enclosure.
- *
- * @author 322638354 Yedidya Peles <\yedpel@gmail.com>.
- * The type Enclosure.
  * Enclosure is a rectangle with a background color.
  * Its horizontal and vertical lines are parallel to the x and y axes.
  * It is used to represent frame or the game's borders.

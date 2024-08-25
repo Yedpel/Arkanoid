@@ -3,7 +3,6 @@ package collision;
 import geometry.Point;
 
 /**
- * @author 322638354 Yedidya Peles <\yedpel@gmail.com>.
  * CollisionInfo class.
  * a collection of objects a Ball can collide with
  */

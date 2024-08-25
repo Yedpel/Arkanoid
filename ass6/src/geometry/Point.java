@@ -1,6 +1,5 @@
 package geometry;
 /**
- * @author 322638354 Yedidya Peles <\yedpel@gmail.com>.
  * The type Point.
  */
 public class Point {

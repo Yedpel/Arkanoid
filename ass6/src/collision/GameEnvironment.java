@@ -7,7 +7,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @author 322638354 Yedidya Peles <\yedpel@gmail.com>.
  * The type Game environment.
  */
 public class GameEnvironment {

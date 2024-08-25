@@ -1,7 +1,6 @@
 package geometry;
 
 /**
- * @author 322638354 Yedidya Peles <\yedpel@gmail.com>.
  * The type Velocity.
  */
 // Velocity specifies the change in position on the `x` and the `y` axes.

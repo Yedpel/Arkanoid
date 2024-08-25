@@ -3,7 +3,6 @@ package geometry;
 import java.util.List;
 
 /**
- * @author 322638354 Yedidya Peles <\yedpel@gmail.com>.
  * The type Line.
  */
 

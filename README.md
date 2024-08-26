@@ -24,8 +24,6 @@ Welcome to the Arkanoid Game, the final product of a comprehensive 5-part semest
 3. Ensure you have the `biuoop-1.4.jar` file included in your project’s classpath.
 4. **Compile and run** the `Ass6Game.java` file located in the `ass6/src/` directory.
 
-Once you've launched the game using one of the methods outlined above, you can control the paddle using the left (`←`) and right (`→`) arrow keys.
-
 ## Gameplay Instructions
 
 - **Move the Paddle:** Use the left arrow (`←`) to move left and the right arrow (`→`) to move right.
@@ -36,7 +34,10 @@ The game includes 3 challenging levels, which are illustrated in the images belo
 
 Good luck, and enjoy the game!
 
+
 ![level_1](https://github.com/user-attachments/assets/19f3c893-9662-4d86-94cb-7e136acc32b3)
+
 ![level_2](https://github.com/user-attachments/assets/c1670b5f-5427-4407-ace8-cddd0aa4a935)
+
 ![level_3](https://github.com/user-attachments/assets/d0a59520-f0ea-4c7c-8b89-2a7df6a9132f)
 
